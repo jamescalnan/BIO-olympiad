@@ -20,10 +20,7 @@ def main(n):
 
     # Need to get the zeckendorf representation of the number
     # The representation is the sum of the fibonacci numbers that make up the number
-    # The fibonacci numbers are unique and no two consecutive fibonacci numbers can be used
-    # The fibonacci numbers are in ascending order
-    # The fibonacci numbers are in the fibonacci sequence
-    # The fibonacci numbers are in the fibonacci sequence
+
 
     out = []
 
